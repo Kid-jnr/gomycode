@@ -1,4 +1,4 @@
-![](https://gomycodelearn.blob.core.windows.net/assets/images/general/gomycodeLogo.svg =900x)
+![](./asset/gomycodeLogo.png =900x)
 
 # Master's Program Tracker - GoMyCode
 
