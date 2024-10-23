@@ -1,4 +1,4 @@
-![](./asset/gomycodeLogo.png =900x)
+![](https://raw.githubusercontent.com/Kid-jnr/gomycode/refs/heads/main/asset/gomycodeLogo.png =900x)
 
 # Master's Program Tracker - GoMyCode
 
