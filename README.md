@@ -1,4 +1,5 @@
 <img src="https://raw.githubusercontent.com/Kid-jnr/gomycode/refs/heads/main/asset/gomycodeLogo.png" width="600" style="background-color: white">
+
 # Master's Program Tracker - GoMyCode
 
 Welcome to my Master's Program Tracker repository! This repository is dedicated to documenting my journey through the Master's program with GoMyCode. Here, you'll find resources, notes, projects, and progress updates as I navigate through the various modules and assignments.
